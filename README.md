@@ -23,8 +23,10 @@ pt4largest.cpp
   -the user is asked to enter three integers and the function determines which is the largest value by comparing the first value to values 2 & 3, then    comparing value 2 to value 3 if value 1 is less than value 2.
 
 pt4leap.cpp
-  -The user inputs a value representing a year, then determines if it is a leap year by cycling thru scenarios in an if/else statement. If the year is divisible by 100 and divisible by 400, it is a leap year and will output "YES!", but if it is divisible by 100 but not 400, then it is not a leap year and will output "NO!". All other years are checked to see if they are divisible by 4, which will output "YES!".
+  -The user inputs a value representing a year, then determines if it is a leap year by cycling thru scenarios in an if-else statement. If the year is    divisible by 100 and divisible by 400, it is a leap year and will output "YES!", but if it is divisible by 100 but not 400, then it is not a leap       year and will output "NO!". All other years are checked to see if they are divisible by 4, which will output "YES!".
 
+pt5switch.cpp
+  -the function requests the user to input a numeric value followed by an arithmetic operation then another value and outputs the resulting value. This   calculator only uses four operations, which are addition, subtraction, multiplication, and division.
 
-
-  
+pt6debug.cpp
+  -I rearranged the code and embedded the if-else statement into the for loop. After declaring and initializing the int variable as the number 10, the    for loop iterates from 10 to 20 and outputs "Number is not 20" until the variable reaches 20 and then outputs "Number is 20". 
